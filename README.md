@@ -12,7 +12,7 @@ By identifying the key drivers of vaccination, this project provides actionable 
 
 ---
 
-## 2. Data Understanding
+## 2. Data
 The dataset originates from the **National 2009 H1N1 Flu Survey**. It contains approximately 26,000 responses with over 30 features.
 * **Key Features:** Behavioral (mask-wearing, hand-washing), Opinions (perceived risk, vaccine effectiveness), and Demographics (age, race, income).
 * **Target Variable:** `h1n1_vaccine` (Binary: 0 = No, 1 = Yes).
